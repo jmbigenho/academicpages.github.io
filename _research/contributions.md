@@ -3,7 +3,6 @@ title: "Elections, Individuals and Incumbency: Campaign Contributions
 following Close Congressional Races"
 collection: research
 permalink: /research/contributions
-excerpt: ''
 paperurl: 'http://jmbigenho.github.io/files/contributions.pdf'
 ---
 
