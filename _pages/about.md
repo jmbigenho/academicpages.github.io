@@ -12,8 +12,7 @@ Welcome to my personal website!
 
 I am a PhD Candidate in Economics at
 the University of California, San Diego. I will finish my PhD in
-June 2018. Upon completion, I will join Amazon.com as an
-Economist.
+June 2018. Upon completion, I will join the Economist team at Amazon.com.
 
 My research interests include labor economics, political economy and
 behavioral economics.
