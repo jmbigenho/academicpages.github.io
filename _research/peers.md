@@ -1,5 +1,5 @@
 ---
-title: "Social Comparisons in Peer Effections"
+title: "Social Comparisons in Peer Effects"
 collection: research
 permalink: /research/munis
 excerpt: 'with Seung-Keun Martinez. Draft available upon request.'
