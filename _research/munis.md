@@ -2,10 +2,12 @@
 title: "Institutional Determinants of Municipal Fiscal Dynamics"
 collection: research
 permalink: /research/munis
-excerpt: "with Grant Johnson""
+excerpt: 'with Grant Johnson'
 date: 2018-05-30
+venue: 'Working Paper'
 paperurl: 'http://jmbigenho.github.io/files/munis.pdf'
-<!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
+citation: 'Bigenho, Jason; Grant Johnson. (2018). &quot;Institutional
+Determinants of Municipal Fiscal Dynamics.&quot;'
 ---
 Joint work with Grant Johnson.
 

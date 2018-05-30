@@ -35,11 +35,11 @@ Work experience
 <!--   * Sub-skill 2.3 -->
 <!-- * Skill 3 -->
 
-Works in Progress
-======
-  <ul>{% for post in site.research %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<!-- Works in Progress -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.research %} -->
+<!--     {% include archive-single-cv.html %} -->
+<!--   {% endfor %}</ul> -->
 
 <!-- Teaching -->
 <!-- ====== -->
