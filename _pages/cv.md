@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * June 2014 - Present: Graduate Teaching Assistant, UC San Diego
-* Summer 2017: Economist Intern, Amazon.com
+* June 2017 - September 2017: Economist Intern, Amazon.com
 
 <!-- Skills -->
 <!-- ====== -->
