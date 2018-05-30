@@ -2,9 +2,8 @@
 title: "Institutional Determinants of Municipal Fiscal Dynamics"
 collection: research
 permalink: /research/munis
-<!-- excerpt: 'with Grant Johnson' -->
-date: 2018
-<!-- venue: 'Journal 1' -->
+excerpt: "with Grant Johnson""
+date: 2018-05-30
 paperurl: 'http://jmbigenho.github.io/files/munis.pdf'
 <!-- citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).' -->
 ---
