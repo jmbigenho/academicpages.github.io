@@ -19,10 +19,10 @@ unconstrained counterparts in capital-intensive spending growth,
 while there is little differential effect on public safety and
 administrative expenditures. Significant effects on capital
 outlays persist for two years following a shock, reaching a peak
-relative reduction in growth of approximately 3.5\% per-capita
+relative reduction in growth of approximately 3.5% per-capita
 after one year. Transportation and public maintenance spending, in
 particular, track this pattern and reach maximum relative
-reductions in growth of roughly 1.7\% and 1.5\% the year following
+reductions in growth of roughly 1.7% and 1.5% the year following
 a shock, respectively, indicating they are absorbing the brunt of
 the capital response. Relative growth in the total size of
 government following a shock, however, is only modestly
