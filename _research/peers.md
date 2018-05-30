@@ -4,9 +4,9 @@ collection: research
 permalink: /research/munis
 excerpt: 'with Seung-Keun Martinez. Draft available upon request.'
 ---
-<!-- Joint work with Grant Johnson. -->
+Joint work with Seung-Keun Martinez. Draft available upon request.
 
 <!-- [Download paper here](http://jmbigenho.github.io/files/munis.pdf) -->
 
-<!-- Recommended citation: Bigenho, Jason; Johnson, -->
-<!-- Grant. (2018). "Instititutional Determinants of Municipal Fiscal Dynamics." -->
+Recommended citation: Bigenho, Jason; Martinez,
+Seung-Keun. (2018). "Social Comparisons in Peer Effects."
