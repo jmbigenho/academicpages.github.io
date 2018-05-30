@@ -80,11 +80,10 @@ analytics:
 author:
   name             : "Jason M. Bigenho"
   avatar           : "profile.png"
-  bio              : "I am a PhD candidate in Economics at UC San
-  Diego. In August, I will join Amazon.com as an Economist."
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "PhD candidate in Economics."
+  location         : "San Diego, CA"
+  employer         : "UC San Diego"
+  googlescholar    :
   email            : "jbigenho@ucsd.edu"
   uri              :
   bitbucket        :
