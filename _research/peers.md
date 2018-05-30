@@ -1,7 +1,7 @@
 ---
 title: "Social Comparisons in Peer Effects"
 collection: research
-permalink: /research/munis
+permalink: /research/peers
 excerpt: 'with Seung-Keun Martinez. Draft available upon request.'
 ---
 Joint work with Seung-Keun Martinez. Draft available upon request.
