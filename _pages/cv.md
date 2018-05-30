@@ -20,14 +20,10 @@ Work experience
 * June 2014 - Present: Graduate Teaching Assistant, UC San Diego
 * June 2017 - September 2017: Economist Intern, Amazon.com
 
-<!-- Skills -->
-<!-- ====== -->
-<!-- * Skill 1 -->
-<!-- * Skill 2 -->
-<!--   * Sub-skill 2.1 -->
-<!--   * Sub-skill 2.2 -->
-<!--   * Sub-skill 2.3 -->
-<!-- * Skill 3 -->
+Skills
+======
+R, Stata, Matlab, Python, Django, LaTeX, MS Office
+
 
 <!-- Works in Progress -->
 <!-- ====== -->
