@@ -3,7 +3,7 @@ title: "Elections, Individuals and Incumbency: Campaign Contributions
 following Close Congressional Races"
 collection: research
 permalink: /research/contributions
-excerpt: '    I estimate the causal effect of
+excerpt: 'I estimate the causal effect of
 candidates' election
 results on the future contribution behavior of their
 donors using a regression discontinuity

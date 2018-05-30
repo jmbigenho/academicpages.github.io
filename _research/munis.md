@@ -2,7 +2,7 @@
 title: "Institutional Determinants of Municipal Fiscal Dynamics"
 collection: research
 permalink: /research/munis
-excerpt: 'With Grant Johnson.     We characterize how municipal governments respond to economic
+excerpt: 'With Grant Johnson. We characterize how municipal governments respond to economic
 fluctuations, using employment shocks to capture cyclical
 movements. We pay particular attention to the role that local
 fiscal institutions---specifically, Tax and Expenditure
