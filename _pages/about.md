@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I am a PhD Candidate in Economics at
+Welcome to my personal website!
+
+I am a PhD Candidate in Economics at
 the University of California, San Diego. I will finish my PhD in
-June 2018. Upon completion, I will be joining Amazon.com as an
+June 2018. Upon completion, I will join Amazon.com as an
 Economist.
 
 My research interests include labor economics, political economy and
