@@ -23,8 +23,7 @@ Work experience
 
 Skills
 ======
-R, Stata, Matlab, Python, Django, Git, LaTeX, MS Office
-
+R, Stata, Matlab, Python, Django, Git, HTML/CSS, LaTeX, MS Office
 
 <!-- Works in Progress -->
 <!-- ====== -->
