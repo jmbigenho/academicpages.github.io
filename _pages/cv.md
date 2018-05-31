@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematics-Economics, University of Pittsburgh, 2013
+* B.S. *Summa cum laude* in Mathematics-Economics, University of Pittsburgh, 2013
 * M.A. in Economics, UC San Diego, 2014
 * Ph.D in Economics, UC San Diego, 2018 (expected)
   * Advisor: [Gordon B. Dahl](http://econweb.ucsd.edu/~gdahl/)
